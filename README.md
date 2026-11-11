@@ -1,4 +1,9 @@
-# Logix VSCode
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.openlogix.org/brand/readme/vscode-dark.svg">
+  <img alt="Logix VSCode" src="https://www.openlogix.org/brand/readme/vscode-light.svg" height="96">
+</picture>
+
+[![License: MIT or Apache 2.0](https://img.shields.io/badge/License-MIT%20or%20Apache%202.0-blue)](LICENSE-MIT)
 
 The full FPGA workflow inside VS Code.
 
